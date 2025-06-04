@@ -166,6 +166,32 @@ To validate the predictive relevance of literature gaps, I examined documented o
 
 The analysis reveals a paradox in organizational behavior literature: while the network exhibits overall connectivity (single component, 13.48% density), critical concept pairs remain weakly connected or disconnected despite high conceptual relevance.
 
+## 📊 Key Visualizations
+
+<div align="center">
+
+### 1. The Causal Pipeline
+[![Causal Pipeline](images/causal_pipeline.png)](images/causal_pipeline.png)
+*From Academic Research to Corporate Dysfunction*
+
+### 2. Literature Gap Analysis
+[![Gap Heatmap](images/gap_heatmap.png)](images/gap_heatmap.png)
+*Statistical Correlations Between Literature and Reality*
+
+### 3. Hidden Influencers
+[![Hidden Influencers](images/hidden_influencers.png)](images/hidden_influencers.png)
+*High-Impact Concepts with Disproportionate Influence*
+
+### 4. Prediction Framework
+[![Prediction Framework](images/prediction_framework.png)](images/prediction_framework.png)
+*Comprehensive Analysis Dashboard*
+
+### 5. Executive Dashboard
+[![Executive Dashboard](images/executive_dashboard.png)](images/executive_dashboard.png)
+*Complete Executive Summary*
+
+</div>
+
 ### Methodological Contributions
 
 1. **Novel Gap Detection**: First systematic application of network analysis to identify knowledge structure gaps in academic literature
