@@ -133,6 +133,23 @@ gap_analysis = identify_weak_critical_links(network)
 | Executive ↔ Relations | 1.0 | 2.1 | 48% below average |
 | Social ↔ Management | 1.2 | 2.1 | 43% below average |
 
+## 📊 Key Visualizations
+
+### 1. The Causal Pipeline
+![Causal Pipeline](https://raw.githubusercontent.com/rosalinatorres888/Advanced_Network_Intelligence/main/IMAGES/causal_pipeline.png)
+
+### 2. Literature Gap Analysis
+![Gap Heatmap](https://raw.githubusercontent.com/rosalinatorres888/Advanced_Network_Intelligence/main/IMAGES/gap_heatmap.png)
+
+### 3. Hidden Influencers
+![Hidden Influencers](https://raw.githubusercontent.com/rosalinatorres888/Advanced_Network_Intelligence/main/IMAGES/hidden_influencers.png)
+
+### 4. Prediction Framework
+![Prediction Framework](https://raw.githubusercontent.com/rosalinatorres888/Advanced_Network_Intelligence/main/IMAGES/prediction_framework.png)
+
+### 5. Executive Dashboard
+![Executive Dashboard](https://raw.githubusercontent.com/rosalinatorres888/Advanced_Network_Intelligence/main/IMAGES/executive_dashboard.png)
+
 ## 📈 Empirical Correlations
 
 ### Literature-Practice Pattern Matching
