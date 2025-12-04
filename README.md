@@ -204,7 +204,7 @@ This research demonstrates:
 
 Interested in network analysis, NLP, or research gap detection?
 
-- **LinkedIn:** [linkedin.com/in/rosalinatorres](https://linkedin.com/in/rosalinatorres)
+- **LinkedIn:** [linkedin.com/in/rosalinatorres](https://linkedin.com/in/rosalina-torres)
 - **Portfolio:** [rosalinatorres888.github.io](https://rosalinatorres888.github.io)
 - **Email:** torres.ros@northeastern.edu
 
